@@ -1,9 +1,0 @@
-ripgrep
-ctags
-luajit --Head
-oh-my-zsh
-lazygit
-tmux
-git
-#nvim -- Head
-

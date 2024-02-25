@@ -1,0 +1,5 @@
+unsetopt correct_all
+unsetopt correct
+bindkey -M viins jj vi-cmd-mode
+bindkey -M viins jk vi-cmd-mode
+set -o vi
